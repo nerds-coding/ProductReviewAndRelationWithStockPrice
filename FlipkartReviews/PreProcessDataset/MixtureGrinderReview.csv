@@ -1,21 +1,21 @@
-User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentiment,UserReviewSentiment
-...Very nice item super quality product,Flipkart Customer,1month ago,2020-07-02,Very nice item super quality product,pos,pos
-...Very nice Good qualityWValue for money,Flipkart Customer,1month ago,2020-07-02,Very nice Good qualityWValue money,pos,pos
-...Super good fantastic awesome best quality,Flipkart Customer,4months ago,2020-04-02,Super good fantastic awesome best quality,pos,pos
-...Awesome product in acceptable price working excellent,Flipkart Customer,5months ago,2020-03-02,Awesome product acceptable price work excellent,pos,pos
-...very bad poor quality,Surapu Navya,5months ago,2020-03-02,bad poor quality,neg,neg
-"...Delicate mixer jars, very poor plastic top cover while mixer is running plastic",phani,5months ago,2020-03-02,Delicate mixer jar poor plastic top cover mixer run plastic,neg,neg
-...good productive workinggood choice,Flipkart Customer,6months ago,2020-02-02,good productive workinggood choice,pos,pos
-...Good product with best quality at this price range,Adimulam Vamsi,6months ago,2020-02-02,Good product best quality price range,pos,pos
-...Good quality product in best price. Thanks to flirt.,Flipkart Mathew Anthony,7months ago,2020-01-02,Good quality product best price Thanks flirt,pos,pos
-...good features and good quality very nice product  buds,Phani Yandra,7months ago,2020-01-02,good feature good quality nice product bud,pos,pos
-...Very nice item super quality product,Flipkart Customer,1month ago,2020-07-02,Very nice item super quality product,pos,pos
-...Very nice Good qualityWValue for money,Flipkart Customer,1month ago,2020-07-02,Very nice Good qualityWValue money,pos,pos
-...Super good fantastic awesome best quality,Flipkart Customer,4months ago,2020-04-02,Super good fantastic awesome best quality,pos,pos
-...Awesome product in acceptable price working excellent,Flipkart Customer,5months ago,2020-03-02,Awesome product acceptable price work excellent,pos,pos
-...very bad poor quality,Surapu Navya,5months ago,2020-03-02,bad poor quality,neg,neg
-"...Delicate mixer jars, very poor plastic top cover while mixer is running plastic",phani,5months ago,2020-03-02,Delicate mixer jar poor plastic top cover mixer run plastic,neg,neg
-...good productive workinggood choice,Flipkart Customer,6months ago,2020-02-02,good productive workinggood choice,pos,pos
-...Good product with best quality at this price range,Adimulam Vamsi,6months ago,2020-02-02,Good product best quality price range,pos,pos
-...Good quality product in best price. Thanks to flirt.,Flipkart Mathew Anthony,7months ago,2020-01-02,Good quality product best price Thanks flirt,pos,pos
-...good features and good quality very nice product  buds,Phani Yandra,7months ago,2020-01-02,good feature good quality nice product bud,pos,pos
+User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentimentNegative,FinalTextSentimentPositive,FinalTextSentimentNeutral,FinalTextSentimentCompound,FinalTextSentiment,UserReviewSentimentNegative,UserReviewSentimentPositive,UserReviewSentimentNeutral,UserReviewSentimentCompound,UserReviewSentiment
+...Very nice item super quality product,Flipkart Customer,1month ago,2020-07-03,Very nice item super quality product,0.0,0.645,0.355,0.8051,pos,0.0,0.645,0.355,0.8051,pos
+...Very nice Good qualityWValue for money,Flipkart Customer,1month ago,2020-07-03,Very nice Good qualityWValue money,0.0,0.676,0.324,0.7408,pos,0.0,0.611,0.389,0.7408,pos
+...Super good fantastic awesome best quality,Flipkart Customer,4months ago,2020-04-03,Super good fantastic awesome best quality,0.0,0.949,0.051,0.9623,pos,0.0,0.949,0.051,0.9623,pos
+...Awesome product in acceptable price working excellent,Flipkart Customer,5months ago,2020-03-03,Awesome product acceptable price work excellent,0.0,0.771,0.229,0.8779,neg,0.0,0.716,0.284,0.8779,neg
+...very bad poor quality,Surapu Navya,5months ago,2020-03-03,bad poor quality,0.868,0.0,0.132,-0.765,neg,0.782,0.0,0.218,-0.8004,neg
+"...Delicate mixer jars, very poor plastic top cover while mixer is running plastic",phani,5months ago,2020-03-03,Delicate mixer jar poor plastic top cover mixer run plastic,0.237,0.229,0.534,-0.2732,pos,0.204,0.196,0.6,-0.2799,pos
+...good productive workinggood choice,Flipkart Customer,6months ago,2020-02-03,good productive workinggood choice,0.0,0.492,0.508,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+...Good product with best quality at this price range,Adimulam Vamsi,6months ago,2020-02-03,Good product best quality price range,0.0,0.64,0.36,0.7964,pos,0.0,0.504,0.496,0.7964,pos
+...Good quality product in best price. Thanks to flirt.,Flipkart Mathew Anthony,7months ago,2020-01-03,Good quality product best price Thanks flirt,0.0,0.714,0.286,0.875,pos,0.0,0.625,0.375,0.875,pos
+...good features and good quality very nice product  buds,Phani Yandra,7months ago,2020-01-03,good feature good quality nice product bud,0.0,0.683,0.317,0.8225,pos,0.0,0.597,0.403,0.8357,pos
+...Very nice item super quality product,Flipkart Customer,1month ago,2020-07-03,Very nice item super quality product,0.0,0.645,0.355,0.8051,pos,0.0,0.645,0.355,0.8051,pos
+...Very nice Good qualityWValue for money,Flipkart Customer,1month ago,2020-07-03,Very nice Good qualityWValue money,0.0,0.676,0.324,0.7408,pos,0.0,0.611,0.389,0.7408,pos
+...Super good fantastic awesome best quality,Flipkart Customer,4months ago,2020-04-03,Super good fantastic awesome best quality,0.0,0.949,0.051,0.9623,pos,0.0,0.949,0.051,0.9623,pos
+...Awesome product in acceptable price working excellent,Flipkart Customer,5months ago,2020-03-03,Awesome product acceptable price work excellent,0.0,0.771,0.229,0.8779,neg,0.0,0.716,0.284,0.8779,neg
+...very bad poor quality,Surapu Navya,5months ago,2020-03-03,bad poor quality,0.868,0.0,0.132,-0.765,neg,0.782,0.0,0.218,-0.8004,neg
+"...Delicate mixer jars, very poor plastic top cover while mixer is running plastic",phani,5months ago,2020-03-03,Delicate mixer jar poor plastic top cover mixer run plastic,0.237,0.229,0.534,-0.2732,pos,0.204,0.196,0.6,-0.2799,pos
+...good productive workinggood choice,Flipkart Customer,6months ago,2020-02-03,good productive workinggood choice,0.0,0.492,0.508,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+...Good product with best quality at this price range,Adimulam Vamsi,6months ago,2020-02-03,Good product best quality price range,0.0,0.64,0.36,0.7964,pos,0.0,0.504,0.496,0.7964,pos
+...Good quality product in best price. Thanks to flirt.,Flipkart Mathew Anthony,7months ago,2020-01-03,Good quality product best price Thanks flirt,0.0,0.714,0.286,0.875,pos,0.0,0.625,0.375,0.875,pos
+...good features and good quality very nice product  buds,Phani Yandra,7months ago,2020-01-03,good feature good quality nice product bud,0.0,0.683,0.317,0.8225,0,0.0,0.597,0.403,0.8357,0

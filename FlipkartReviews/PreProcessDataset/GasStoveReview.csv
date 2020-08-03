@@ -1,11 +1,11 @@
-User Rating,User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentiment,UserReviewSentiment
-3.0,good,Madabattula Bhaskar Rao,"Dec, 2018",2018-12-02,good,pos,pos
-4.0,This is also ..nice .. purchase for close relative,Flipkart Customer,"Nov, 2018",2018-11-02,This also nice purchase close relative,pos,pos
-5.0,Good,Chandru Lal,"Nov, 2018",2018-11-02,Good,pos,pos
-5.0,good,MANO BHARATHI,"Sep, 2018",2018-09-02,good,pos,pos
-4.0,good protect than you flipkart,Subash Sukumaran ,"Sep, 2018",2018-09-02,good protect flipkart,pos,pos
-4.0,okay  I am satisfied.,Dharma DK,"Aug, 2018",2018-08-02,okay I satisfied,pos,pos
-5.0,"stylish, super working..!!",VIJESH V P,"Jul, 2018",2018-07-02,stylish super work,pos,pos
-5.0,ExcellentWorking,Mamidi Santhosh,"Jul, 2018",2018-07-02,ExcellentWorking,neu,neu
-5.0,sugar,MANOJ  MEGHVAL ,"Mar, 2018",2018-03-02,sugar,neu,neu
-5.0,Super,DEEPAK Kumar,"Dec, 2017",2017-12-02,Super,pos,pos
+User Rating,User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentimentNegative,FinalTextSentimentPositive,FinalTextSentimentNeutral,FinalTextSentimentCompound,FinalTextSentiment,UserReviewSentimentNegative,UserReviewSentimentPositive,UserReviewSentimentNeutral,UserReviewSentimentCompound,UserReviewSentiment
+3.0,good,Madabattula Bhaskar Rao,"Dec, 2018",2018-12-03,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,This is also ..nice .. purchase for close relative,Flipkart Customer,"Nov, 2018",2018-11-03,This also nice purchase close relative,0.0,0.359,0.641,0.4215,pos,0.0,0.259,0.741,0.4215,pos
+5.0,Good,Chandru Lal,"Nov, 2018",2018-11-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,good,MANO BHARATHI,"Sep, 2018",2018-09-03,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,good protect than you flipkart,Subash Sukumaran ,"Sep, 2018",2018-09-03,good protect flipkart,0.0,0.846,0.154,0.6705,pos,0.0,0.647,0.353,0.6705,pos
+4.0,okay  I am satisfied.,Dharma DK,"Aug, 2018",2018-08-03,okay I satisfied,0.0,0.825,0.175,0.5719,pos,0.0,0.701,0.299,0.5719,pos
+5.0,"stylish, super working..!!",VIJESH V P,"Jul, 2018",2018-07-03,stylish super work,0.0,0.661,0.339,0.5994,neu,0.0,0.692,0.308,0.6688,neu
+5.0,ExcellentWorking,Mamidi Santhosh,"Jul, 2018",2018-07-03,ExcellentWorking,0.0,0.0,1.0,0.0,neu,0.0,0.0,1.0,0.0,neu
+5.0,sugar,MANOJ  MEGHVAL ,"Mar, 2018",2018-03-03,sugar,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Super,DEEPAK Kumar,"Dec, 2017",2017-12-03,Super,0.0,1.0,0.0,0.5994,0,0.0,1.0,0.0,0.5994,0
